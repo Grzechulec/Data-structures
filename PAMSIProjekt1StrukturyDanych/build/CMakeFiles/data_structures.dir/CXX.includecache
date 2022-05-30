@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Struktury danych/PAMSIProjekt1StrukturyDanych/src/main.cpp
+iostream
+-
+stack
+-
+queue
+-
+list
+-
+cstdlib
+-
+

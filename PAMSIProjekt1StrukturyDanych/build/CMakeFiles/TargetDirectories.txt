@@ -1,0 +1,5 @@
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Struktury danych/PAMSIProjekt1StrukturyDanych/build/CMakeFiles/rebuild_cache.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Struktury danych/PAMSIProjekt1StrukturyDanych/build/CMakeFiles/edit_cache.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Struktury danych/PAMSIProjekt1StrukturyDanych/build/CMakeFiles/example_test.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Struktury danych/PAMSIProjekt1StrukturyDanych/build/CMakeFiles/data_structures.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Struktury danych/PAMSIProjekt1StrukturyDanych/build/CMakeFiles/test_data_structures.dir
